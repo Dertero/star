@@ -1,0 +1,32 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+  background: url("header.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn {
+	width: 160px;
+	height: 50px;
+	padding: 10px;
+	background: #dc3545;
+	border-radius: 30px;
+	position: absolute;
+	top: 62%;
+	left: 46%;
+}
+
+h1 {
+	font-style: 'Monserrat';
+	color: white;
+	position: absolute;
+	top: 31%;
+	left: 34%;
+}
